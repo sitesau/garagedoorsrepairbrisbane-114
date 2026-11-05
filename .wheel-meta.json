@@ -1,0 +1,22 @@
+{
+  "wheel_id": 761,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-114",
+  "project": "garage-door-repairs-brisbane-suburb-guide-b54396cf05940891fc2f4",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-156",
+  "node_role": "feeder",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane suburb guide",
+  "intended_url": "http://garage-door-repairs-brisbane-suburb-guide-b54396cf05940891fc2f4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "999b9df3edb41873",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/garage-door-repairs-brisbane-signs-you-need-ff9fae6eb07a260ec19/",
+      "anchor": "Garage Door Repairs Brisbane Signs You Need: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
